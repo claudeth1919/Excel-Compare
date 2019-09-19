@@ -1,0 +1,9 @@
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\x86\Debug\BOM.exe.config
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\x86\Debug\BOM.exe
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\x86\Debug\BOM.pdb
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.BOMDropperView.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.Properties.Resources.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.csproj.GenerateResource.cache
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.csproj.CoreCompileInputs.cache
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.exe
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\x86\Debug\BOM.pdb

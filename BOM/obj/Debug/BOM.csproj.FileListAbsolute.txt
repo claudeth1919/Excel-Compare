@@ -1,0 +1,67 @@
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\Debug\BOM.exe.config
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\Debug\BOM.exe
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\Debug\BOM.pdb
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.BOMDropperView.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.Properties.Resources.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.csproj.GenerateResource.cache
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.exe
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.pdb
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.WarehouseDropperView.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.Menu.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.GetMaterialView.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.View.AssignOrder.resources
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.csproj.CoreCompileInputs.cache
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\Debug\itextsharp.dll
+C:\Users\DIAZIAN\source\repos\BOM\BOM\bin\Debug\itextsharp.xml
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.csprojAssemblyReference.cache
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.csproj.CopyComplete
+C:\Users\DIAZIAN\source\repos\BOM\BOM\obj\Debug\BOM.DropperView.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\bin\Debug\BOM.exe.config
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\bin\Debug\BOM.exe
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\bin\Debug\BOM.pdb
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\bin\Debug\itextsharp.dll
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\bin\Debug\itextsharp.xml
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.DropperView.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.AssignOrder.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.GetMaterialView.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.MaterialGrid.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.WarehouseDropperView.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.BOMDropperView.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.Menu.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.Properties.Resources.resources
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.CopyComplete
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.exe
+C:\Users\Ivan\Desktop\BOM Proyexto\BOM\BOM\obj\Debug\BOM.pdb
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\BOM.exe.config
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\BOM.exe
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\BOM.pdb
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\itextsharp.dll
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\itextsharp.xml
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.DropperView.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.AssignOrder.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.GetMaterialView.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.MaterialGrid.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.WarehouseDropperView.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.BOMDropperView.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.Menu.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.Properties.Resources.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.GenerateResource.cache
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.CoreCompileInputs.cache
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csproj.CopyComplete
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.exe
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.pdb
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\Email\Confirmation.html
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.MyMessageBox.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\resourse\error.png
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\resourse\success.png
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\resourse\warning.png
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.EmailConfirmation.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.Memo.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.LimitedMaterialGrid.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\bin\Debug\resourse\clock.gif
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.MaterialGridForDummies.resources
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.csprojAssemblyReference.cache
+C:\Users\DIAZIAN\BOM Proyexto\BOM\BOM\obj\Debug\BOM.View.AllAssignedOrdes.resources
